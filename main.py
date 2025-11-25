@@ -12,6 +12,7 @@ def alt_tab():
     kb_controller.tap(Key.tab)
     kb_controller.tap(Key.tab)
     kb_controller.tap(Key.tab)
+    kb_controller.tap(Key.tab)
     kb_controller.release(Key.alt)
     print("ALT + TAB sent!")
 
