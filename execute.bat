@@ -1,2 +1,2 @@
 @echo off
-uv run main.py
+start /B uv run main.py
